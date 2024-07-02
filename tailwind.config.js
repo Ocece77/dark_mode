@@ -1,3 +1,5 @@
+/** @type {import('tailwindcss').Config} */
+
 module.exports = {
   content: [
     "./index.html",
@@ -7,8 +9,4 @@ module.exports = {
     extend: {},
   },
   plugins: [],
-  resolve: {
-    extensions: ['.js', '.jsx'],
-  },
-  base: '/dark_mode/',
 }

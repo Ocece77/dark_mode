@@ -5,7 +5,7 @@
 This project demonstrates a simple Dark Mode / Light Mode toggle app built with Tailwind CSS and React.js. It uses `useContext` to manage and toggle between themes.
 
 ### Live Demo
-🚀 Check out the live demo [here](https://your-live-demo-link.com)!
+🚀 Check out the [live demo here](https://ocece77.github.io/dark_mode/#/example)!
 
 ### Features
 ✨ Toggle between Dark Mode and Light Mode with a click  
